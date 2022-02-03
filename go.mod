@@ -1,4 +1,4 @@
-module sigs.k8s.io/yaml
+module github.com/karlschriek/yaml
 
 go 1.12
 
